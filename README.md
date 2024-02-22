@@ -8,6 +8,15 @@ Atualmente, faço curso de Desenvolvedor Front-end para o programa **_Ford <ENTE
 
 ### Tecnologias que estou aprendendo:
 
+* Markdown (linguagem de marcação)
+* HTML (linguagem de marcação)
+* CSS (linguagem de estilização)
+* JavaScript
+* Git
+* GitHub
+* Power Shell
+
+Acesse o [Guia básico do Markdown](https://docs.pipz.com/central-de-ajuda/learning-center/guia-basico-de-markdown#open) ou pesquise diretamente em <https://google.com/?q-markdown>
 
 <!--
 **jjessic/jjessic** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
