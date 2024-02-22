@@ -1,5 +1,13 @@
-# Jéssica
-Meu repositório pessoal
+# Jéssica Barbosa Biano
+
+Estudante do terceiro ano do ensino médio, sem histórico de trabalhos/cursos. Tenho 17 anos e meus planos atualmente são me aprimorar na área da tecnologia, futuramente me tornando uma DEV profissional.
+
+Atualmente, faço curso de Desenvolvedor Front-end para o programa **_Ford <ENTER>_** em parceria com a *Ford Motor Company* e *Ford Fund* no **SENAI-SP**. 
+
+## Formação
+
+### Tecnologias que estou aprendendo:
+
 
 <!--
 **jjessic/jjessic** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
