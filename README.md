@@ -1,6 +1,6 @@
 # Jéssica Barbosa Biano
 
-Estudante do terceiro ano do ensino médio. Tenho 17 anos e meus planos atualmente são me aprimorar na área da tecnologia, futuramente me tornando uma DEV profissional.
+Estudante do terceiro ano do ensino médio. Tenho 17 anos e meus planos são me aprimorar na área da tecnologia, futuramente me tornando uma DEV profissional.
 
 Atualmente, faço curso de Desenvolvedor Front-end para o programa **_Ford <ENTER>_** em parceria com a *Ford Motor Company* e *Ford Fund* no **SENAI-SP**. 
 
