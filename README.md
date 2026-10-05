@@ -4,7 +4,7 @@ Olá! Eu sou a Jéssica 👋🏻
 
 Tenho 20 anos e sou estudante de Ciência da Computação pela UNINOVE, atualmente no 4º semestre. Estou construindo minha trajetória na área de tecnologia por meio da graduação, projetos acadêmicos e estudos por conta própria.
 
-Tenho maior familiaridade com HTML5 e CSS3, principalmente no desenvolvimento e estilização de páginas web. Durante minha formação, também tive contato com outras linguagens e conceitos de programação, mas atualmente meu foco está em fortalecer minha base e desenvolver minhas habilidades na prática.
+💻 Possuo maior familiaridade com HTML5 e CSS3, principalmente no desenvolvimento e estilização de páginas web. Durante minha formação, também tive contato com outras linguagens e conceitos de programação, mas atualmente meu foco está em fortalecer minha base e desenvolver minhas habilidades na prática.
 
 🌐 Tenho interesse principalmente em Front-end e Desenvolvimento Web e atualmente busco aprimorar meus conhecimentos em lógica de programação, JavaScript e desenvolvimento de interfaces, colocando o que aprendo em prática por meio de projetos.
 
