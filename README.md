@@ -1,22 +1,41 @@
 # Jéssica Barbosa Biano
 
-Estudante do curso de Ciência da Computação na UNINOVE, 4° período. Tenho 20 anos e meus planos são me aprimorar a cada dia mais na área da tecnologia, futuramente me tornando uma DEV profissional.
+Olá! Eu sou a Jéssica 👋🏻
 
-Atualmente, faço curso de Desenvolvedor Front-end para o programa **_Ford <ENTER>_** em parceria com a *Ford Motor Company* e *Ford Fund* no **SENAI-SP**. 
+Tenho 20 anos e sou estudante de Ciência da Computação, atualmente no 4º semestre. Estou construindo minha trajetória na área de tecnologia por meio da graduação, projetos acadêmicos e estudos por conta própria.
 
-## Formação
+💻 Tenho maior familiaridade com HTML5 e CSS3, principalmente no desenvolvimento e estilização de páginas web. Também possuo conhecimentos em JavaScript, Python e C, adquiridos durante minha formação e em projetos acadêmicos.
 
-### Tecnologias que estou aprendendo:
+🌐 Tenho interesse principalmente em Front-end e Desenvolvimento Web e atualmente busco aprimorar meus conhecimentos em lógica de programação, JavaScript e desenvolvimento de interfaces, colocando o que aprendo em prática por meio de projetos.
 
-* Markdown (linguagem de marcação)
-* HTML (linguagem de marcação)
-* CSS (linguagem de estilização)
+🎓 Ao longo da graduação, venho desenvolvendo projetos acadêmicos envolvendo programação e desenvolvimento web. Também utilizo Git e GitHub para versionamento de código e colaboração em projetos.
+
+🎯 Objetivo
+
+Busco uma oportunidade de estágio em TI ou uma boa oportunidade profissional na área de tecnologia, em um ambiente onde eu possa aprimorar os conhecimentos que já possuo, desenvolver novas habilidades e aprender aquilo que ainda não sei. Quero adquirir experiência prática, contribuir com a equipe e continuar evoluindo profissionalmente.
+
+🛠️ Tecnologias
+
+* HTML5 & CSS3 — maior familiaridade
+* JavaScript — conhecimentos básicos
+* Python — conhecimentos básicos
+* C — conhecimentos em lógica e algoritmos
+* Git & GitHub — versionamento e colaboração
+
+🌱 Atualmente focando em
+
+* Lógica de programação
 * JavaScript
-* Git
-* GitHub
-* Power Shell
+* Front-end e desenvolvimento web
+* Construção de projetos práticos
+* Boas práticas de programação
 
-Acesse o [Guia básico do Markdown](https://docs.pipz.com/central-de-ajuda/learning-center/guia-basico-de-markdown#open) ou pesquise diretamente em <https://google.com/?q-markdown>
+📌 Sobre mim
+
+Sou uma pessoa dedicada, curiosa e com vontade de aprender. Gosto de transformar o que aprendo em projetos práticos e estou sempre buscando desenvolver minhas habilidades e conhecer novas tecnologias.
+
+📍 Santo André, São Paulo, Brasil
+🎓 Ciência da Computação — 4º semestre
 
 <!--
 **jjessic/jjessic** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
