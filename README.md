@@ -2,7 +2,7 @@
 
 Olá! Eu sou a Jéssica 👋🏻
 
-Tenho 20 anos e sou estudante de Ciência da Computação, atualmente no 4º semestre. Estou construindo minha trajetória na área de tecnologia por meio da graduação, projetos acadêmicos e estudos por conta própria.
+Tenho 20 anos e sou estudante de Ciência da Computação pela UNINOVE, atualmente no 4º semestre. Estou construindo minha trajetória na área de tecnologia por meio da graduação, projetos acadêmicos e estudos por conta própria.
 
 💻 Tenho maior familiaridade com HTML5 e CSS3, principalmente no desenvolvimento e estilização de páginas web. Também possuo conhecimentos em JavaScript, Python e C, adquiridos durante minha formação e em projetos acadêmicos.
 
